@@ -17,7 +17,7 @@ use App\Http\Controllers\OrderController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 Route::get('/pb',[PageController::class, 'pb']);
 // Route::get('/products/{id}',[ProductController::class, 'show'])->where('id','[0-9]+');

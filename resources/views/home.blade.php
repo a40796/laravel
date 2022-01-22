@@ -1,4 +1,4 @@
 @extends('layouts.app')
 @section('content')
-    <p>This is pb page.</p>
+    <p>This is homepage.</p>
 @endsection
