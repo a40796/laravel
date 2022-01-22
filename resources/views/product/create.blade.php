@@ -11,5 +11,5 @@
         <input type="text" name="title">
         <button type="submit">Submit</button>
     </form>
-</body>
+    <span></span>
 </html>
